@@ -1,7 +1,9 @@
 void main()
 {
+Olia  o = new Olia
+	var victor = new Victor();
+}
 Bohdan b=new Bohdan();
 }
 }
-Olia  o = new Olia
 
