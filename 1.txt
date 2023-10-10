@@ -1,4 +1,5 @@
 void main()
 {
 Bohdan b=new Bohdan();
+	var victor = new Victor();
 }
