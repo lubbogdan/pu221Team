@@ -2,3 +2,6 @@ void main()
 {
 Bohdan b=new Bohdan();
 }
+}
+Olia  o = new Olia
+
