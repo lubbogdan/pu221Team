@@ -1,3 +1,4 @@
 void main()
 {
+Bohdan b=new Bohdan();
 }
