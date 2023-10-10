@@ -1,3 +1,4 @@
 void main()
 {
+Marko m = new Marko();
 }
